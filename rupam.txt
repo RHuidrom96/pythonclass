@@ -1,0 +1,5 @@
+1. Take choice from the user: (1) Take single user info from terminal, (2) Take multiple users info from terminal, (3) Read from a file
+2. If choice is 1, the code that you already have
+3. If choice is 2, (a) take how many users info you want to enter, (b) use a loop and do what you have been doing in choice 1
+4. If choice is 3, (a) read from a file, (b) do what you have been doing in choice 1
+5. For choices 1, 2, 3 --> store the x, y values that you want to plot on your bar chart in a list, then use that lost to plot your bar chart using the matplotlib library.
